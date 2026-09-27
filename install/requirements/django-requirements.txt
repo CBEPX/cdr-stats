@@ -34,7 +34,7 @@ django-cors-headers==1.0.0
 git+git://github.com/pinax/django-mailer
 django-activelink==0.4
 django-bootstrap3-datetimepicker==2.2.3
-djangorestframework==2.4.3
+djangorestframework==3.17.2
 django-crispy-forms==1.4.0
 django-localflavor==1.1
 hg+http://bitbucket.org/schinckel/django-postgres#egg=django-postgres
